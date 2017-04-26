@@ -1,0 +1,6 @@
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleLINQ\ExampleLINQ\bin\Debug\ExampleLINQ.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleLINQ\ExampleLINQ\bin\Debug\ExampleLINQ.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleLINQ\ExampleLINQ\bin\Debug\ExampleLINQ.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleLINQ\ExampleLINQ\obj\Debug\ExampleLINQ.csprojResolveAssemblyReference.cache
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleLINQ\ExampleLINQ\obj\Debug\ExampleLINQ.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleLINQ\ExampleLINQ\obj\Debug\ExampleLINQ.pdb
