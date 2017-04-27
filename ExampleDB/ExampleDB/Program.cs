@@ -8,6 +8,9 @@
  *  For more information on displaying related data on Windows Forms, see:
  *      https://msdn.microsoft.com/en-us/library/57tx3hhe(v=vs.110)
  *      
+ *  Language description data sourced from Techopedia:
+ *      https://www.techopedia.com/dictionary
+ *      
  */
 
 using System;

@@ -1,0 +1,11 @@
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleDB\ExampleDB\bin\Debug\ExampleDB.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleDB\ExampleDB\bin\Debug\ExampleDB.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleDB\ExampleDB\bin\Debug\ExampleDB.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleDB\ExampleDB\obj\Debug\ExampleDB.csprojResolveAssemblyReference.cache
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleDB\ExampleDB\obj\Debug\ExampleDB.frmMain.resources
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleDB\ExampleDB\obj\Debug\ExampleDB.Properties.Resources.resources
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleDB\ExampleDB\obj\Debug\ExampleDB.csproj.GenerateResource.Cache
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleDB\ExampleDB\obj\Debug\ExampleDB.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleDB\ExampleDB\obj\Debug\ExampleDB.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleDB\ExampleDB\bin\Debug\IN2017_ExampleDB.mdf
+K:\_boostNode\GitHub\IN2017\IN2017_Module12\ExampleDB\ExampleDB\bin\Debug\IN2017_ExampleDB_log.ldf
